@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Video Snatcher</title>
+  <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+  <header class="header">
+    <h1>Video Snatcher</h1>
+    <p class="tagline">Download videos from YouTube, Instagram, and more by simply copying the link.</p>
+    <a href="#download" class="btn">Download Now</a>
+  </header>
+
+  <section class="features">
+    <h2>Why Video Snatcher?</h2>
+    <div class="feature-card">
+      <h3>YouTube & Instagram</h3>
+      <p>Seamlessly download videos from popular platforms with ease.</p>
+    </div>
+    <div class="feature-card">
+      <h3>Copy & Paste</h3>
+      <p>Simply copy the video link and paste it to download in seconds.</p>
+    </div>
+    <div class="feature-card">
+      <h3>Multiple Formats</h3>
+      <p>Choose from different formats and resolutions to fit your needs.</p>
+    </div>
+  </section>
+
+  <section id="download" class="download-section">
+    <h2>Download Video Snatcher</h2>
+    <a href="#" class="btn">Download for Android</a>
+    <a href="#" class="btn">Download for iOS</a>
+  </section>
+
+  <footer class="footer">
+    <p>&copy; 2024 Video Snatcher. All rights reserved.</p>
+  </footer>
+</body>
+</html>
